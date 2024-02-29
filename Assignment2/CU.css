@@ -1,0 +1,137 @@
+img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.img{
+    transform: scale(3);
+}
+body
+{
+    background-image: url(loginbg.jpg);
+    transform: scale(.3);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.transparent1
+{
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding: 10px; 
+    height:550px;width:1150px;color: white;font-size:25px;
+    box-shadow: 2px 2px 15px aqua; 
+    backdrop-filter: blur(5px);
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    padding-left: 0%;
+    padding-top: 5px;
+}
+.kp{
+    font-weight: bold;
+    color: white;
+}
+.cu{
+    font-size: xx-large;
+    font-weight: bold;
+    color:aqua;
+    margin-left: 175px;
+    margin-top: -40px;
+}
+p{
+    font-size: smaller;
+    margin-left: 13.5px;
+    margin-top: -50px;
+    color: white;
+}
+.em{
+    margin-top: 60px;
+    color: white;
+}
+.bl{
+    font-size: smaller;
+    color: white;
+}
+input{
+    inline-size: 220px;
+    color: aqua;
+    transform: scale(1.7);
+    margin-left: 85px;
+    margin-top: 20px;
+    position: relative; 
+    z-index: 1;
+    background: transparent;
+    border-radius: 25px;
+    border-color: aqua;
+}
+textarea{
+    color: aqua;
+    transform: scale(1);
+    margin-top: 20px;
+    font-size: 1.25rem/3;
+    position: relative; 
+    z-index: 1;
+    background: transparent;
+    border-color: aqua;
+}
+.transparent2
+{
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    margin-top: -557px;
+    margin-left: 540px;
+    height:500px;width:575px;color: white;font-size:25px;
+    box-shadow: 2px 2px 15px aqua; 
+    backdrop-filter: blur(5px);
+}
+.cf{
+    font-size: xx-large;
+    font-weight: bold;
+    color: aqua;
+    margin-left: 192px;
+    padding-top: 5%;
+}
+.name{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.email{
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.massage{
+    background-color:transparent;  
+    margin-top: -20px;   
+}
+.main{
+    margin-left: 136px;
+    margin-top: -60px;
+}
+.ms{
+    margin-left: -104px;
+    position: relative;
+    margin-top: 100px;
+}
+button{
+    background-color: white;
+    margin-left: 220px;
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 5px 10px 5px 5px;
+    position: relative;
+    z-index: 1;
+}
+.button{
+    cursor: pointer;
+    color: black;
+    padding: 10px 50px;
+    border-radius: 0.5rem;
+}
+.button:hover{
+    background: aqua;
+    text-decoration: none;
+}

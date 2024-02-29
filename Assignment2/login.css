@@ -1,0 +1,92 @@
+.transparent
+{
+    transform: scale(3);
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    margin-top: 50px;
+    padding: 10px; 
+    height:550px;width:800px;color: white;font-size:25px;
+    box-shadow: 2px 2px 15px aqua; 
+    backdrop-filter: blur(5px);
+}
+input{
+    color: white;
+    transform: scale(1.8);
+    margin-left: 75px;
+    position: relative; 
+    z-index: 1;
+    background: transparent;
+    border-radius: 25px;
+    border-color: #fff;
+}
+label{
+    margin-top: auto;
+    margin-left: -55px;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    padding-left: 40%;
+    padding-top: 15px;
+}
+body
+{
+    background-image: url(loginbg.jpg);
+    transform: scale(.3);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.center{
+    padding-top: 60px;
+    margin-left: 250px;
+}
+button{
+    margin-left: 100px;
+    font-weight: bold;
+    padding: 5px 10px 5px 5px;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 0.5rem;
+    transition: background 0.3s ease-in-out;
+}
+.button{
+    /* cursor: pointer;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 0.5rem;
+    transition: background 0.3s ease-in-out; */
+}
+.button:hover{
+    background: rgba(255, 255, 255, 0.25);
+    text-decoration: none;
+}
+.flex1{
+    margin-top: 65px;
+    margin-left: 40px;
+}
+.flex2{
+    margin-top: -30px;
+    margin-left: 600px;
+    position: relative;
+}
+.flex1 a , .flex2 a{
+    color: white;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(110, 161, 220);
+}

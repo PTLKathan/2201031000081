@@ -1,0 +1,98 @@
+img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.F{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    margin-left: 690px;
+    margin-top: -40px;
+}
+.transparent1
+{
+    background-color: rgba(11, 137, 0, 1);
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding: 10px; 
+    height:550px;width:1139px;color: white;font-size:25px;
+    box-shadow: 2px 2px 15px rgba(11, 137, 0, 1); 
+    backdrop-filter: blur(5px);
+}
+pre{
+    font-size: 15px;
+}
+h4{
+    padding-top: 25px;
+}
+.box1{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-top: -10px;
+}
+.box2{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+}
+.box3{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-left: 290px;
+    margin-top: -542px;
+}
+.box4{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-left: 290px;
+    margin-top: 36px;
+}
+.box5{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-left: 582px;
+    margin-top: -542px;
+}
+.box6{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-left: 582px;
+    margin-top: 36px;
+}
+.box7{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-left: 878px;
+    margin-top: -542px;
+}
+.box8{
+    background-color: rgba(130, 188, 129, 1);
+    border-radius: 25px;
+    text-align: center;
+    height:237.5px;width:260px;color: white;font-size:25px;
+    backdrop-filter: blur(5px);
+    margin-left: 878px;
+    margin-top: 36px;
+}
